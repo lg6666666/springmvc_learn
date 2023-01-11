@@ -12,5 +12,6 @@
 </head>
 <body>
 这是登录
+${lg}
 </body>
 </html>
